@@ -5,6 +5,8 @@ public class demo {
     public static void main(String[] args) {
         //这是我第一次使用git
         //我在测试哦
-        System.out.print("测试pull");
+        System.out.println("分支");
+
+
     }
 }
