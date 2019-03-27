@@ -7,6 +7,7 @@ public class demo {
     public static void main(String[] args) {
         //这是我第一次使用git
         System.out.println("工作中要使用git，加油");
+        System.out.println("我改的代码");
 
 
     }
