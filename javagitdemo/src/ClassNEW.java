@@ -4,6 +4,6 @@
 public class ClassNEW {
     public static void main(String[] args) {
         System.out.println("我改了本地");
-        System.out.println("我在github上写的代码");
+        System.out.println("我改了git");
     }
 }
